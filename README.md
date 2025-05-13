@@ -23,7 +23,7 @@ I manage deployments across four environments — dev, QA, staging, and producti
 4) Troubleshooting & Support:
 I also handle production issue troubleshooting. This includes analyzing logs, identifying root causes, and fixing issues quickly to minimize downtime. This responsibility is critical for maintaining application reliability and ensuring smooth user experiences.
 
-**How do you start your day as a DevOps Engineer?**
+****How do you start your day as a DevOps Engineer?****
 
  I typically begin my day by:
 
