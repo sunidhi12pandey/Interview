@@ -42,3 +42,17 @@ I go through the status of recent builds and deployments using GitHub Actions. I
 5) Prioritizing Automation or Ongoing Work:
 Once urgent checks are done, I focus on ongoing work like improving CI/CD pipelines, writing automation scripts, managing cloud infrastructure, or deploying new services to our environments.
 
+
+**HAVE YOU EVEN DONE WRONG IN PRODUCTION ENVIRONMENT AND HOW IS YOU APPROUCH TO SLOVE THE PRODUCTION RELATED ISSUES**
+
+Yes, I’ve faced a production issue during one of our routine release activities — and I believe how you respond to such issues really defines your capability as a DevOps Engineer.
+
+In one case, during a Kubernetes release, I accidentally added a whitespace in the database name while updating the configuration. When the deployment happened, the DB pod failed to connect, and the application couldn’t establish a connection.
+
+In the first attempt, I checked the logs and saw the error message saying that the database named "xyz" does not exist. At first glance, it looked correct, but because of the trailing whitespace in the DB name, the system treated it as a different, non-existent database.
+
+During the second review, I noticed the extra whitespace in the config file. I immediately corrected the value and re-ran the GitHub Actions pipeline, which resolved the issue and brought the service back up.
+
+To prevent this in the future, I enhanced the GitHub Actions workflow by adding a dropdown menu using workflow_dispatch inputs. Now, when users trigger the release workflow, they can select the correct DB name from a predefined list, instead of typing it manually. This simple change has helped us avoid manual input errors and made the release process more reliable.
+
+
