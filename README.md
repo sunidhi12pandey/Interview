@@ -22,3 +22,23 @@ I manage deployments across four environments — dev, QA, staging, and producti
 
 4) Troubleshooting & Support:
 I also handle production issue troubleshooting. This includes analyzing logs, identifying root causes, and fixing issues quickly to minimize downtime. This responsibility is critical for maintaining application reliability and ensuring smooth user experiences.
+
+**How do you start your day as a DevOps Engineer?**
+
+ I typically begin my day by:
+
+1) Checking Monitoring Dashboards and Alerts:
+I first check system monitoring tools and alert channels — like email, Slack, or ELK dashboards — to ensure that all services are running smoothly and there are no critical issues in production or other environments.
+
+2)Reviewing CI/CD Pipelines:
+I go through the status of recent builds and deployments using GitHub Actions. If any pipeline has failed, I investigate the cause and take necessary actions to fix it quickly.
+
+3) Daily Stand-up Meeting:
+    If there’s a daily stand-up or team sync meeting, I join to align with developers, QA, or other team members on the current tasks, priorities, and any blockers.
+
+4)Checking Pending Tickets or Tasks:
+  I review my assigned tickets in Jira or the task board in teams shift app and plan my work for the day — whether it’s infrastructure changes, automation tasks, deployment requests, or troubleshooting issues.
+
+5) Prioritizing Automation or Ongoing Work:
+Once urgent checks are done, I focus on ongoing work like improving CI/CD pipelines, writing automation scripts, managing cloud infrastructure, or deploying new services to our environments.
+
