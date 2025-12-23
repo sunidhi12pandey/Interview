@@ -2,7 +2,7 @@
 
 **Tell me about yourself**
 
-Hi, my name is Sunidhi Pandey, and I have cummulative 4 plus years of experience in the IT industry and relevent experinece in  DevOps field is 3 years  i. My journey began at Hastree Technologies, where I worked as a Cloud Engineer. My main responsibilities involved deploying and managing cloud infrastructure. During this time, I gained strong hands-on experience with cloud platforms like Google Cloud Platform (GCP) and AWS, and developed a solid understanding of VPCs, container registries, and IAM.
+Hi, my name is Sunidhi Pandey, and I have cummulative 4 plus years of experience in the IT industry and relevent experinece in  DevOps .field is 3 years  
 Currently, I’m working as a Software Engineer at WhizHack Technologies, where my focus is on automation and application deployment. Here, I’ve deepened my experience with tools like GitHub Actions, Docker, Kubernetes, as well as bash scripting and working in Linux environments.
 Over the years, I’ve developed a strong foundation in cloud infrastructure, CI/CD pipelines, and system automation. I'm passionate about solving problems, improving deployment efficiency, and working on scalable cloud solutions.
 
@@ -27,20 +27,14 @@ I also handle production issue troubleshooting. This includes analyzing logs, id
 
  I typically begin my day by:
 
-1) Checking Monitoring Dashboards and Alerts:
-I first check system monitoring tools and alert channels — like email, Slack, or ELK dashboards — to ensure that all services are running smoothly and there are no critical issues in production or other environments.
-
-2)Reviewing CI/CD Pipelines:
-I go through the status of recent builds and deployments using GitHub Actions. If any pipeline has failed, I investigate the cause and take necessary actions to fix it quickly.
-
-3) Daily Stand-up Meeting:
-    If there’s a daily stand-up or team sync meeting, I join to align with developers, QA, or other team members on the current tasks, priorities, and any blockers.
-
-4)Checking Pending Tickets or Tasks:
+1)  Checking Pending Tickets or Tasks:
   I review my assigned tickets in Jira or the task board in teams shift app and plan my work for the day — whether it’s infrastructure changes, automation tasks, deployment requests, or troubleshooting issues.
 
-5) Prioritizing Automation or Ongoing Work:
-Once urgent checks are done, I focus on ongoing work like improving CI/CD pipelines, writing automation scripts, managing cloud infrastructure, or deploying new services to our environments.
+ 2) Checking Monitoring Dashboards and Alerts:
+I first check system monitoring tools and alert channels — like email, Slack, or ELK dashboards — to ensure that all services are running smoothly and there are no critical issues in production or other environments.
+
+3) Daily Stand-up Meeting:
+If there’s a daily stand-up or team sync meeting, I join to align with developers, QA, or other team members on the current tasks, priorities, and any blockers.
 
 
 **HAVE YOU EVEN DONE WRONG IN PRODUCTION ENVIRONMENT AND HOW IS YOU APPROUCH TO SLOVE THE PRODUCTION RELATED ISSUES**
