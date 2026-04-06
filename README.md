@@ -1,12 +1,11 @@
 # Interview
 
 **Tell me about yourself**
+Hi, my name is Sunidhi. I am a DevOps Engineer with around 3 years of experience in designing, deploying, and managing cloud-based applications.
 
-Hi, my name is Sunidhi Pandey, and I have cummulative 4 plus years of experience in the IT industry and relevent experinece in  DevOps .field is 3 years. My journey began at Hastree Technologies as Devops and QA, where I gained strong fundamentals in Linux system administration, automation, CI/CD workflows, and application lifecycle management.  
-Previously, I worked as a Software Engineer at WhizHack Technologies, focusing on cloud automation and application deployment. My role involves building and maintaining CI/CD pipelines, working extensively with Docker and Kubernetes, and automating infrastructure and deployment workflows using Bash scripting and Linux environments. 
+I have hands-on experience with AWS and GCP, where I’ve worked on setting up infrastructure from scratch, including VPCs, EC2, s3. I’ve also worked extensively with Docker and Kubernetes for containerization and orchestration.
 
-I’ve deepened my experience with tools like GitHub Actions, Docker, Kubernetes, as well as bash scripting and working in Linux environments.
-Over the years, I’ve developed a strong foundation in cloud infrastructure, CI/CD pipelines, and system automation. I'm passionate about solving problems, improving deployment efficiency, and working on scalable cloud solutions.
+In my current role, I focus on building CI/CD pipelines using GitHub Actions, automating deployments, and ensuring system reliability and performance. I also have experience in monitoring, troubleshooting production issues, and optimizing costs.
 
 ***Roles & Responsibilities***
 
