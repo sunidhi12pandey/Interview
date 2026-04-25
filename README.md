@@ -1,15 +1,15 @@
 # Interview
 
 **Tell me about yourself**
-Hi, my name is Sunidhi. I am a DevOps Engineer with around 3 years of experience in designing, deploying, and managing cloud-based applications.
 
-I have hands-on experience with AWS and GCP, where I’ve worked on setting up infrastructure from scratch, including VPCs, EC2, s3. I’ve also worked extensively with Docker and Kubernetes for containerization and orchestration.
-
-In my current role, I focus on building CI/CD pipelines using GitHub Actions, automating deployments, and ensuring system reliability and performance. I also have experience in monitoring, troubleshooting production issues, and optimizing costs.
+“Sure, I’ll give a quick overview of my background.
+I have around 3 years of experience as a DevOps Engineer, working on cloud platforms like AWS and GCP.
+I’ve worked on building infrastructure from scratch, including VPCs, virtual machines, and storage services.
+I have hands-on experience with containerization using Docker and orchestration using Kubernetes.
+In my current role, I focus on building CI/CD pipelines using GitHub Actions, automating deployments, and managing multiple environments like dev, QA, staging, and production.
+I also work on monitoring and troubleshooting production issues to ensure system reliability and minimal downtime.”
 
 ***Roles & Responsibilities***
-
-
 In my current role as a DevOps Engineer, my responsibilities are mainly focused around cloud infrastructure management, CI/CD automation, and application deployment and support.
 
 1) Cloud Platform Management:
